@@ -1,14 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi guyss, I'm Aldwin 👋
 
 ## 🚀 About Me
-I'm a passionate **[Your Role]** with expertise in **[Your Specialties]**. I love building innovative solutions and contributing to open-source projects.
+I'm a **3rd Year BS Information Technology** with expertise in **Web-Development**. I love building innovative solutions and contributing to open-source projects.
 
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technologies]**
-- 👯 I'm looking to collaborate on **[Project Types]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I'm currently studying in **Cebu Eastern College**
+- 🌱 I'm currently learning **Amazon Web Services**
+- 📫 How to reach me: **aldwinetumulak28@gmail.com**
+- ⚡ Fun fact: **Taking free online courses in weekends**
 
 ## 🌐 Connect with Me
 
