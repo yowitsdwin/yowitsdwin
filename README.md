@@ -48,16 +48,6 @@ I'm a **3rd Year BS Information Technology**, currently learning **Web-Developme
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yowitsdwin&theme=react-dark)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 💡 Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ### 📊 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
