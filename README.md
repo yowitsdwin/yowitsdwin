@@ -6,7 +6,6 @@ I'm a **3rd Year BS Information Technology**, currently learning **Web-Developme
 - 🔭 I'm currently studying in **Cebu Eastern College**
 - 🌱 I'm currently learning **Amazon Web Services**
 - 📫 How to reach me: **aldwinetumulak28@gmail.com**
-- ⚡ Fun fact: **Taking free online courses in weekends**
 
 ## 🌐 Connect with Me
 
@@ -47,11 +46,3 @@ I'm a **3rd Year BS Information Technology**, currently learning **Web-Developme
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yowitsdwin&theme=react-dark)
-
-### 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
-
----
-
-⭐️ From [Your Name](https://github.com/your-username)
