@@ -25,17 +25,7 @@ I'm a **3rd Year BS Information Technology**, currently learning **Web-Developme
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yowitsdwin&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yowitsdwin&layout=compact&theme=radical)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yowitsdwin&theme=dark)](https://git.io/streak-stats)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yowitsdwin&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📈 Activity Graph
 
